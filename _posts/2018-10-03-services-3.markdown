@@ -1,0 +1,8 @@
+---
+layout: default
+img: agile.png
+category: Services
+title: Methodology
+description: |
+---
+  We have found through experience that our outstanding clients know what they need. As a result we favor rapid prototyping of a tight, well-defined feature set over more traditional waterfall style approaches. Rapid prototyping allows for quick feedback and iteration. Building software in many ways is a communication task. To that end we employ communication and development practices typically called Agile, but we are careful not to let procedural dogma get in the way of client happiness and project success.

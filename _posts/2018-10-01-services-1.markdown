@@ -1,0 +1,10 @@
+---
+layout: default
+img: spreadsheet.png
+category: Services
+title: Custom Data and Workflow Tools 
+description: |
+---
+  Your business relies on data to drive decision making and workflow tools to streamline repetitive processes. The spreadsheets you rely on are great for flexibility and affordability, but are hard to manage and scale.
+
+  Mountain Man Technologies specializes in turning your business spreadsheets into bespoke web applications that are easy to use and reliable.

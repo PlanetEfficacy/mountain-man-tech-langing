@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://www.mountainmantechnolgies.com
+title: Mountain Man Technologies
+email: jesse@mountainmantechnolgies.com
+author: Jesse Spevack
+description: > # "Write an awesome description for your new site here.
+  Mountain Man Technologies LLC is a web development consultancy.
+copyright: 'Copyright &copy; 2018 Mountain Man Technologies. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  # - title: twitter
+    # url: https://twitter.com/PlanetEfficacy
+  - title: github
+    url: https://github.com/PlanetEfficacy
+  # - title: linkedin
+    # url: https://www.linkedin.com/in/jessespevack/

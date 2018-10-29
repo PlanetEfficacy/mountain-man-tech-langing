@@ -1,0 +1,10 @@
+---
+layout: default
+img: code.png
+category: Services
+title: Technologies 
+description: |
+---
+  We specialize in Ruby on Rails, a web application framework that is behind some of the most successful companies on the internet. We are equipped to work on greenfield projects as well as build new features, squash bugs, and improve architecture on existing Rails projects.
+
+  We also do work with Google Apps Script, which is a powerful scripting library for automating custom workflows on the Google Apps platform. This is a great, low cost tool for creating a proof of concept or small scale tool.
